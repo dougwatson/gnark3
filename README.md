@@ -1,3 +1,3 @@
 # gnark3
-Run gnark on goCoder in web assembly. Local-first over web3 (IPFS).
+Run zero knowledge proof with gnark on goCoder in web assembly. Local-first over web3 (IPFS).
 
