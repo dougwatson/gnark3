@@ -1,2 +1,3 @@
 # gnark3
-get gnark to work with web3 (over IPFS with geocoded on wasm)
+Run gnark on goCoder in web assembly. Local-first over web3 (IPFS).
+
